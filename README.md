@@ -8,14 +8,14 @@ We are auditing the tabulated results for a US Congressional precinct in Colorad
 
 - There was a total of 369,711 votes casted in this congressional election.
 - Breakdown of the number of votes and the percentage of total votes  in the precinct:
--- Charles Casper Stockham received 23.0% of the votes and a total of 85,213 votes.
--- Diana DeGette received 73.8% of the votes and a total of 272,892 votes.
--- Raymon Anthony Doane received 3.1% of the votes and a total of 11,606 votes.
+ - Charles Casper Stockham received 23.0% of the votes and a total of 85,213 votes.
+ - Diana DeGette received 73.8% of the votes and a total of 272,892 votes.
+ - Raymon Anthony Doane received 3.1% of the votes and a total of 11,606 votes.
 - Denver county had the largest number of votes.
 - Breakdown of the number of votes and the percentage of the total votes each candidate received:
--- Jefferson received 10.5% of the voters and a total of 38,855 voters.
--- Denver received 82.8% of the voters and a total of 306,055 voters.
--- Arapahoe received 6.7% of the voters and a total of 24,801 voters.
+ - Jefferson received 10.5% of the voters and a total of 38,855 voters.
+ - Denver received 82.8% of the voters and a total of 306,055 voters.
+ - Arapahoe received 6.7% of the voters and a total of 24,801 voters.
 - Diana DeGette won the election with 272,892 votes, 73.8% percentage of the total votes?
 
 ## Election-Audit Summary
