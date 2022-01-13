@@ -19,9 +19,8 @@ We are auditing the tabulated results for a US Congressional precinct in Colorad
 - Diana DeGette won the election with 272,892 votes, 73.8% percentage of the total votes?
 
 ## Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-This election script can easily be used with some modifications for any election. If there is an election with their reults on a csv file with the Ballot ID number with the county and candidate they voted for, the employee can put the file in the Resources folder and in the script, change the file name in the code. If you look 
+This election script can easily be used with some modifications for any election. If there is an election with their reults on a .csv file with the Ballot ID number with the county and candidate they voted for, the employee can put the file in the Resources folder and in the script, change the file names in the code. If you look at the image below, on line 9 with the syntax underlined in pink, you can chnage this syntax with the new .csv file name. On line 11 with the syntax underlined in yellow, you can change that .txt file with a differnet name so that you can get a diffrent file with the new results based on the new file.
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/58046234/149243394-1eebd6ca-a308-4e3a-a070-7aa9c1b6f486.png">
 
