@@ -24,3 +24,4 @@ This election script can easily be used with some modifications for any election
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/58046234/149243394-1eebd6ca-a308-4e3a-a070-7aa9c1b6f486.png">
 
+We can also modify the script to find other things other than the county election results, such as city election results. We can also use the script to see the voter turnout not based on county, but based on ethncity or age or for how long they were a resident, you would just need to chage the second column of your csv file to the breakdown you would want. By doing so, we can can a breakdown of which ethnicty voted for which canidate the most and this can also help the candidates know which are of their election campign they need to work on. 
