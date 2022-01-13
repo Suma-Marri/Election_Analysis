@@ -21,5 +21,7 @@ We are auditing the tabulated results for a US Congressional precinct in Colorad
 ## Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-This election script can easily be used with some modifications for any election. If there is an election with their reults on a csv file with the Ballot ID number with the county and candidate they voted for, the employee can put the file in the Resources folder and in the script, change the file name in the code.
-<img width="401" alt="image" src="https://user-images.githubusercontent.com/58046234/149243236-a5f3c721-38fe-4f0c-8bdf-8e619e987f18.png">
+This election script can easily be used with some modifications for any election. If there is an election with their reults on a csv file with the Ballot ID number with the county and candidate they voted for, the employee can put the file in the Resources folder and in the script, change the file name in the code. If you look 
+
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/58046234/149243394-1eebd6ca-a308-4e3a-a070-7aa9c1b6f486.png">
+
